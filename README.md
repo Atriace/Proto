@@ -1,2 +1,2 @@
-# Proto
-This project implements Software Inc's "Code Mod" project pattern for Visual Studio.
+# Software Inc: Code Mod "Prototype"
+This project implements Software Inc's "Code Mod" ([wiki](http://softwareinc.coredumping.com/wiki/index.php/Code_Modding#Example_mod)) project pattern for Visual Studio.
